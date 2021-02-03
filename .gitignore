@@ -1,0 +1,11 @@
+/.idea/
+db-api
+licenses/env
+__pycache__
+licenses.db
+studie
+flask-studie/env
+licenses.csv
+csv
+licenses.db.1
+licenses/app.log
